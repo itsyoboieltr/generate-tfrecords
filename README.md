@@ -1,1 +1,1 @@
-# generate-tfrecords
+# xml-to-tfrecord
